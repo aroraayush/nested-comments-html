@@ -1,6 +1,6 @@
 # nested-comment-thread-html
 
-Nested comment thread that allows a reply chain for every parent comment.
+Nested comment thread allows you to create a comment and sub-comment chain in Vanilla JavaScript.
 
 ![screen shot 2018-07-24 at 12 25 34 pm](https://user-images.githubusercontent.com/23554810/43121964-1b9a5e8a-8f3d-11e8-8d2e-bd119a7124f1.png)
 
